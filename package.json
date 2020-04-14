@@ -1,5 +1,5 @@
 {
-  "name": "send-id",
+  "name": "mam-example",
   "version": "1.0.0",
   "author": "Yehia Tarek",
   "license": "ISC",
@@ -10,6 +10,7 @@
     "zeromq": "^5.1.0"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.6.2"
+    "@babel/preset-env": "^7.6.2",
+    "minimist": ">=1.2.3"
   }
 }
